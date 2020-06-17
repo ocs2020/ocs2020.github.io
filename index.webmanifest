@@ -1,0 +1,18 @@
+{
+  "name": "Origins of Common Sense",
+  "short_name": "Origins of Common Sense",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu5ad69f3161295bd389d451e2d6db1c68_85113_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu5ad69f3161295bd389d451e2d6db1c68_85113_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
